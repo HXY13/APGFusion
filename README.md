@@ -1,4 +1,4 @@
-# APGFusion: An Adaptive Dual-Branch Feature Fusion Network for Multimodal Medical Image Fusion
+# APGFusion for Medical Image Fusion
 ## Recommended Environment:
 python=3.8\
 torch=1.12.1+cu113\

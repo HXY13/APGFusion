@@ -1,4 +1,4 @@
-# APGFusion for Medical Image Fusion
+# APGFusion
 ## Recommended Environment:
 python=3.8\
 torch=1.12.1+cu113\

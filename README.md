@@ -19,11 +19,6 @@ Run
 ```
 python train.py
 ```
-## Testing:
-Run 
-```
-python test_MIF.py
-```
 
 ## 相关工作
 ```
